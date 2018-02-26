@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>    <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>     <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>     <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html xml:lang="en" class="no-js" lang=""><!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>OnePlus 3 - Design - OnePlus.net</title>
+<meta name="description" content="OnePlus creates beautifully designed products with premium build quality &amp; brings the best technology to users around the world. No tradeoffs, we #NeverSettle.">
+<meta name="keywords" content="">
+<meta name="robots" content="INDEX,FOLLOW">
+<script src="des18_files/opdc.gif" async="" type="text/javascript"></script><script src="des18_files/opdc_002.gif" async="" type="text/javascript"></script><script src="des18_files/analytics.js" async="" type="text/javascript"></script><script src="des18_files/conversion_async.js" async="" type="text/javascript"></script><script src="des18_files/opdc.js" async="" type="text/javascript"></script><script src="des18_files/gtm.js" async=""></script><script src="des18_files/analytics.js" async=""></script><script src="des18_files/linkid.js" async="" type="text/javascript"></script><script src="des18_files/analytics.js" async=""></script><script>window.op=window.op||{};window.op.initTime=new Date();</script>
+<link rel="icon" href="https://content.oneplus.net/media/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://content.oneplus.net/media/favicon/default/favicon.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<link href="des18_files/css.css" rel="stylesheet" type="text/css">
+<script>
+var _account_get_cart = "https://oneplus.net/in/jcart/index/getcart";
+var _GLOBAL = {
+  coupon: "https://oneplus.net/in/checkout/onepage/ajaxApplyCoupon",
+  inFlashSale:0};
+</script>
+<link rel="stylesheet" href="des18_files/base.css">
+<script type="text/javascript" src="des18_files/geoip2.js"></script>
+<script type="text/javascript" src="des18_files/global.js"></script>
+ 
+<script type="text/javascript">
+//<![CDATA[
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46480385-1', 'auto');
+  ga('require', 'linkid');
+  ga('send', 'pageview');
+
+//]]>
+</script>
+ 
+<meta property="fb:app_id" content="1693901367526118">
+<meta property="og:title" content="OnePlus 3">
+<meta property="og:image" content="https://content.oneplus.net/skin/frontend/oneplus2015/default/images/misc/og/debut3.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:description" content="It's about time.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@oneplus">
+<meta name="twitter:creator" content="@oneplus">
+<meta name="twitter:title" content="OnePlus 3">
+<meta name="twitter:description" content="It's about time.">
+<meta name="twitter:image" content="https://content.oneplus.net/skin/frontend/oneplus2015/default/images/misc/og/debut3.jpg">
+<meta http-equiv="X-Frame-Options" content="deny">
+<script type="text/javascript">//<![CDATA[
+        if(typeof Translate != 'undefined'){var Translator = new Translate([]);}
+        //]]></script></head>
+<body class="cms-page-view cms-3-design">
+<input id="local_price_format" value="%7B%22pattern%22%3A%22%5Cu20b9%25s%22%2C%22precision%22%3A2%2C%22requiredPrecision%22%3A2%2C%22decimalSymbol%22%3A%22.%22%2C%22groupSymbol%22%3A%22%2C%22%2C%22groupLength%22%3A3%2C%22integerRequired%22%3A1%7D" type="hidden">
+ 
+<div class="js-off-canvas off-canvas js-menu">
+<div class="container-infinite">
+<div class="container-text">
+<ul class="list-unstyled text-gray nav-list">
+<li>
+<dl class="nav-section">
+<dt class="h4 nav-primary KM_oneplus_header_home"><a href="https://oneplus.net/in">Home</a></dt>
+<dd class="nav-secondary KM_oneplus_header_oneplus_3"><a href="https://oneplus.net/in/3">OnePlus 3</a></dd>
+<dd class="nav-secondary KM_oneplus_header_oneplus_2"><a href="https://oneplus.net/in/2">OnePlus 2</a></dd>
+ 
+ 
+<dd class="nav-secondary KM_oneplus_header_store"><a href="https://oneplus.net/in/store">Store</a></dd>
+<dd class="nav-secondary KM_oneplus_header_support"><a href="https://oneplus.net/in/support">Support</a></dd>
+ 
+<dd class="nav-secondary KM_oneplus_header_forums"><a href="https://forums.oneplus.net/">Community</a></dd>
+</dl>
+<div class="separator"></div>
+</li>
+<li>
+<dl class="nav-section">
+<dd class="nav-secondary KM_oneplus_header_aboutus"><a href="https://oneplus.net/about-us">About OnePlus</a></dd>
+<dd class="nav-secondary KM_oneplus_header_careers"><a href="https://oneplus.net/careers">Careers</a></dd>
+<dd class="nav-secondary KM_oneplus_header_press"><a href="https://oneplus.net/press">Press</a></dd>
+</dl>
+<div class="separator"></div>
+</li>
+<li>
+<dl class="nav-section">
+<dd class="nav-secondary KM_oneplus_header_facebook"><a href="https://facebook.com/oneplusin"><span class="icon-facebook"></span>&nbsp;Facebook</a></dd>
+<dd class="nav-secondary KM_oneplus_header_instagram"><a href="https://www.instagram.com/oneplus_india/"><span class="icon-instagram"></span> Instagram</a></dd>
+<dd class="nav-secondary KM_oneplus_header_gplus"><a href="https://plus.google.com/102032589992734862411"><span class="icon-google-plus"></span>&nbsp;Google Plus</a></dd>
+<dd class="nav-secondary KM_oneplus_header_twitter"><a href="https://twitter.com/oneplus_in"><span class="icon-twitter"></span>&nbsp;Twitter</a></dd>
+</dl>
+<div class="separator"></div>
+</li>
+<li>
+<dl class="nav-section">
+<dd class="nav-secondary KM_oneplus_header_privacy_and_legal"><a href="https://oneplus.net/in/privacy-and-legal">Privacy and Legal</a></dd>
+</dl>
+</li>
+<li>
+<div class="separator"></div>
+</li>
+</ul>
+<div class="sidebar-support">
+<h5>CALL US</h5>
+<a href="tel:1800%20102%208411%20%28Toll%20Free%29"><span class="icon-phone"></span>1800 102 8411 (Toll Free)</a>
+<br><small>
+<i style="display: block;" class="text-success" id="support_status_mobile">Available now</i>
+</small>
+<p>09:00-21:00</p>
+<p>Monday to Sunday</p>
+</div>
+</div>
+</div>
+</div>
+<div class="js-off-canvas off-canvas js-log-in">
+<div class="container-infinite js-before-logged-in">
+<div class="container-text container-padding">
+<h2 class="title">Log in</h2>
+</div>
+<div class="separator"></div>
+<div class="container-text container-padding">
+<div class="log-in">
+<form action="" class="KM_mini_cart_login_form">
+<fieldset>
+<div class="row">
+<div class="col-sm-12">
+<div class="form-group no-label required">
+<label for="offCanvasLoginEmail" class="control-label"></label>
+<div class="input-group">
+<input class="form-control" id="offCanvasLoginEmail" name="email" placeholder="E-mail Address" data-type="email" type="text">
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12">
+<div class="form-group no-label required">
+<label for="offCanvasLoginPassword" class="control-label"></label>
+<div class="input-group">
+<input class="form-control" id="offCanvasLoginPassword" name="password" placeholder="Password" data-type="password" type="password">
+</div>
+</div>
+</div>
+</div>
+ 
+<div class="row hidden" id="g_recaptcha">
+<div class="col-sm-12">
+<div id="g_recaptcha_placeholder"></div>
+<div class="margin-small"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12">
+<button type="submit" class="btn btn-oneplus full-width js-ajax-submit KM_mini_cart_log_in_button" id="offCanvasLogin">Log in</button>
+</div>
+</div>
+<div class="margin-small"></div>
+<div class="margin-tiny"></div>
+<div class="row">
+<div class="col-xs-6 text-left">
+<a class="link-action KM_mini_cart_sign_up_button" href="https://account.oneplus.net/sign-up">Sign up</a>
+</div>
+<div class="col-xs-6 text-right">
+<a class="link-action KM_mini_cart_forgot_password_button" href="https://account.oneplus.net/forgot-password">Forgot password</a>
+</div>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+<div class="continue-log-in">
+<a class="btn facebook-login" href="https://account.oneplus.net/snslogin/facebook?referer=aHR0cHM6Ly9vbmVwbHVzLm5ldC9pbi8zL2Rlc2lnbj90b2tlbj1XNWxaV1JqWVdOb1pXWnBiR1U="><span class="icon-facebook"></span>Continue with Facebook</a>
+<a class="btn google-plus-login" href="https://account.oneplus.net/snslogin/google?referer=aHR0cHM6Ly9vbmVwbHVzLm5ldC9pbi8zL2Rlc2lnbj90b2tlbj1XNWxaV1JqWVdOb1pXWnBiR1U="><span class="i-google-icon"></span>Continue with Google</a>
+</div>
+</div>
+<div class="container-infinite logged-in bg-white full-height hidden">
+<div class="container-text bg-paper-gray">
+<a href="https://account.oneplus.net/">
+<div class="avatar-placeholder center-block"></div>
+<h3 class="user-name with-decoration"></h3>
+</a>
+</div>
+<div class="container-text">
+<div class="my-account">
+<div class="container-padding text-center">
+<div class="margin-small"></div>
+<ul class="list-unstyled">
+<li><a href="https://paywithamazon.amazon.in/" class="to-oneplus-account link-gray"><span class="icon-user"></span> My Amazon Orders <span class="icon-quill"></span></a></li>
+<li><a href="https://oneplus.net/in/customer/address" class="to-oneplus-account link-gray"><span class="icon-address"></span> My Addresses <span class="icon-arrow-right"></span></a></li>
+<li><a href="https://oneplus.net/in/sales/order/history" class="to-store-account link-gray"><span class="icon-info"></span> My Orders <span class="icon-arrow-right"></span></a></li>
+</ul>
+<a href="https://account.oneplus.net/onepluslogout" class="btn btn-ghost-red text-red btn-sign-out full-width KM_mini_cart_sign_out_button" id="offCanvasSignOut"><span class="icon-power"></span> Sign out</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="des18_files/login.js"></script>
+<script type="text/javascript">
+      var onloadCallback = function() {
+        $('#g_recaptcha').removeClass('hidden');
+
+        grecaptcha.render('g_recaptcha_placeholder', {
+          'sitekey' : '6LetnfISAAAAAE6zIyc28qs7B8Hgyn0jyPeeJs_I',
+          'theme' : 'white',
+          'tabindex' : 5,
+          'size' : 'width: 304px; height: 80px;'
+        });
+
+      };
+    </script>
+ 
+<input id="_current_store" value="in" type="hidden">
+<div class="hidden" style="display: none;" id="tpl-choose-store">
+<div class="margin-anti choose-store">
+<h2 class="padding-set">Choose your country or region</h2>
+<p class="padding-set">Products may have different prices and availability based on country/region.</p>
+<dl>
+<dt class="padding-set">North America</dt>
+<dd>
+<ul class="list-unstyled padding-set clearfix row">
+<li class="row col-xs-12 col-sm-6">
+<a data-code="us" data-name="United States" data-value="us" data-lang="English" data-cur="USD" href="https://oneplus.net/3/design" class="col-xs-6"><i class="country-icon-us"></i>United States</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">USD</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="ca_fr" data-name="Canada" data-value="ca" data-lang="Français" data-cur="CAD" href="https://oneplus.net/ca_fr/3/design" class="col-xs-6"><i class="country-icon-ca_fr"></i>Canada</a>
+<span class="col-xs-3">Français</span>
+<span class="col-xs-3">CAD</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="ca_en" data-name="Canada" data-value="ca" data-lang="English" data-cur="CAD" href="https://oneplus.net/ca_en/3/design" class="col-xs-6"><i class="country-icon-ca_en"></i>Canada</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">CAD</span>
+</li>
+</ul>
+</dd>
+<dt class="padding-set">Europe</dt>
+<dd>
+<ul class="list-unstyled padding-set clearfix row">
+<li class="row col-xs-12 col-sm-6">
+<a data-code="at" data-name="Österreich" data-value="at" data-lang="Deutsch" data-cur="EUR" href="https://oneplus.net/at/3/design" class="col-xs-6"><i class="country-icon-at"></i>Österreich</a>
+<span class="col-xs-3">Deutsch</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="be_nl" data-name="België" data-value="be" data-lang="Nederlands" data-cur="EUR" href="https://oneplus.net/be_nl/3/design" class="col-xs-6"><i class="country-icon-be_nl"></i>België</a>
+<span class="col-xs-3">Nederlands</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="be_fr" data-name="Belgique" data-value="be" data-lang="Français" data-cur="EUR" href="https://oneplus.net/be_fr/3/design" class="col-xs-6"><i class="country-icon-be_fr"></i>Belgique</a>
+<span class="col-xs-3">Français</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="bg" data-name="България" data-value="bg" data-lang="English" data-cur="EUR" href="https://oneplus.net/bg/3/design" class="col-xs-6"><i class="country-icon-bg"></i>България</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="hr" data-name="Hrvatska" data-value="hr" data-lang="English" data-cur="EUR" href="https://oneplus.net/hr/3/design" class="col-xs-6"><i class="country-icon-hr"></i>Hrvatska</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="cy_gr" data-name="Κύπρος " data-value="cy" data-lang="ελληνικά" data-cur="EUR" href="https://oneplus.net/cy_gr/3/design" class="col-xs-6"><i class="country-icon-cy_gr"></i>Κύπρος </a>
+<span class="col-xs-3">ελληνικά</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="cy_tr" data-name="Kıbrıs" data-value="cy" data-lang="Türk" data-cur="EUR" href="https://oneplus.net/cy_tr/3/design" class="col-xs-6"><i class="country-icon-cy_tr"></i>Kıbrıs</a>
+<span class="col-xs-3">Türk</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="cz" data-name="Česká Republika" data-value="cz" data-lang="Čeština" data-cur="CZK" href="https://oneplus.net/cz/3/design" class="col-xs-6"><i class="country-icon-cz"></i>Česká Republika</a>
+<span class="col-xs-3">Čeština</span>
+<span class="col-xs-3">CZK</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="dk" data-name="Danmark" data-value="dk" data-lang="Dansk" data-cur="DKK" href="https://oneplus.net/dk/3/design" class="col-xs-6"><i class="country-icon-dk"></i>Danmark</a>
+<span class="col-xs-3">Dansk</span>
+<span class="col-xs-3">DKK</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="ee" data-name="Eesti" data-value="ee" data-lang="English" data-cur="EUR" href="https://oneplus.net/ee/3/design" class="col-xs-6"><i class="country-icon-ee"></i>Eesti</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="fi" data-name="Suomi" data-value="fi" data-lang="Suomalainen" data-cur="EUR" href="https://oneplus.net/fi/3/design" class="col-xs-6"><i class="country-icon-fi"></i>Suomi</a>
+<span class="col-xs-3">Suomalainen</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="fr" data-name="France" data-value="fr" data-lang="Français" data-cur="EUR" href="https://oneplus.net/fr/3/design" class="col-xs-6"><i class="country-icon-fr"></i>France</a>
+<span class="col-xs-3">Français</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="de" data-name="Deutschland" data-value="de" data-lang="Deutsch" data-cur="EUR" href="https://oneplus.net/de/3/design" class="col-xs-6"><i class="country-icon-de"></i>Deutschland</a>
+<span class="col-xs-3">Deutsch</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="gr" data-name="Ελλάδα" data-value="gr" data-lang="Ελληνικά" data-cur="EUR" href="https://oneplus.net/gr/3/design" class="col-xs-6"><i class="country-icon-gr"></i>Ελλάδα</a>
+<span class="col-xs-3">Ελληνικά</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="hu" data-name="Magyarország" data-value="hu" data-lang="Magyar" data-cur="HUF" href="https://oneplus.net/hu/3/design" class="col-xs-6"><i class="country-icon-hu"></i>Magyarország</a>
+<span class="col-xs-3">Magyar</span>
+<span class="col-xs-3">HUF</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="ie" data-name="Ireland" data-value="ie" data-lang="English" data-cur="EUR" href="https://oneplus.net/ie/3/design" class="col-xs-6"><i class="country-icon-ie"></i>Ireland</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="it" data-name="Italia" data-value="it" data-lang="Italiano" data-cur="EUR" href="https://oneplus.net/it/3/design" class="col-xs-6"><i class="country-icon-it"></i>Italia</a>
+<span class="col-xs-3">Italiano</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="lv" data-name="Latvija" data-value="lv" data-lang="English" data-cur="EUR" href="https://oneplus.net/lv/3/design" class="col-xs-6"><i class="country-icon-lv"></i>Latvija</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="lt" data-name="Lietuva" data-value="lt" data-lang="English" data-cur="EUR" href="https://oneplus.net/lt/3/design" class="col-xs-6"><i class="country-icon-lt"></i>Lietuva</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="lu_fr" data-name="Luxembourg" data-value="lu" data-lang="Français" data-cur="EUR" href="https://oneplus.net/lu_fr/3/design" class="col-xs-6"><i class="country-icon-lu_fr"></i>Luxembourg</a>
+<span class="col-xs-3">Français</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="lu_de" data-name="Luxemburg" data-value="lu" data-lang="Deutsch" data-cur="EUR" href="https://oneplus.net/lu_de/3/design" class="col-xs-6"><i class="country-icon-lu_de"></i>Luxemburg</a>
+<span class="col-xs-3">Deutsch</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="mt" data-name="Malta" data-value="mt" data-lang="English" data-cur="EUR" href="https://oneplus.net/mt/3/design" class="col-xs-6"><i class="country-icon-mt"></i>Malta</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="nl" data-name="Nederland" data-value="nl" data-lang="Nederlands" data-cur="EUR" href="https://oneplus.net/nl/3/design" class="col-xs-6"><i class="country-icon-nl"></i>Nederland</a>
+<span class="col-xs-3">Nederlands</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="pl" data-name="Polska" data-value="pl" data-lang="Polski" data-cur="PLN" href="https://oneplus.net/pl/3/design" class="col-xs-6"><i class="country-icon-pl"></i>Polska</a>
+<span class="col-xs-3">Polski</span>
+<span class="col-xs-3">PLN</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="pt" data-name="Portugal" data-value="pt" data-lang="Português" data-cur="EUR" href="https://oneplus.net/pt/3/design" class="col-xs-6"><i class="country-icon-pt"></i>Portugal</a>
+<span class="col-xs-3">Português</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="ro" data-name="România" data-value="ro" data-lang="English" data-cur="EUR" href="https://oneplus.net/ro/3/design" class="col-xs-6"><i class="country-icon-ro"></i>România</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="es" data-name="España" data-value="es" data-lang="Español" data-cur="EUR" href="https://oneplus.net/es/3/design" class="col-xs-6"><i class="country-icon-es"></i>España</a>
+<span class="col-xs-3">Español</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="sk" data-name="Slovensko" data-value="sk" data-lang="English" data-cur="EUR" href="https://oneplus.net/sk/3/design" class="col-xs-6"><i class="country-icon-sk"></i>Slovensko</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="si" data-name="Slovenija" data-value="si" data-lang="English" data-cur="EUR" href="https://oneplus.net/si/3/design" class="col-xs-6"><i class="country-icon-si"></i>Slovenija</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">EUR</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="se" data-name="Sverige" data-value="se" data-lang="Svenska" data-cur="SEK" href="https://oneplus.net/se/3/design" class="col-xs-6"><i class="country-icon-se"></i>Sverige</a>
+<span class="col-xs-3">Svenska</span>
+<span class="col-xs-3">SEK</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="uk" data-name="United Kingdom" data-value="uk" data-lang="English" data-cur="GBP" href="https://oneplus.net/uk/3/design" class="col-xs-6"><i class="country-icon-uk"></i>United Kingdom</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">GBP</span>
+</li>
+</ul>
+</dd>
+<dt class="padding-set">Asia-Pacific</dt>
+<dd>
+<ul class="list-unstyled padding-set clearfix row">
+<li class="row col-xs-12 col-sm-6">
+<a data-code="cn" data-name="中国" data-value="cn" data-lang="简体中文" data-cur="CNY" href="http://www.oneplus.cn/" class="col-xs-6"><i class="country-icon-cn"></i>中国</a>
+<span class="col-xs-3">简体中文</span>
+<span class="col-xs-3">CNY</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="hk" data-name="Hong Kong" data-value="hk" data-lang="English" data-cur="HKD" href="https://oneplus.net/hk/3/design" class="col-xs-6"><i class="country-icon-hk"></i>Hong Kong</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">HKD</span>
+</li>
+<li class="row col-xs-12 col-sm-6">
+<a data-code="in" data-name="India" data-value="in" data-lang="English" data-cur="INR" href="https://oneplus.net/in/3/design" class="col-xs-6"><i class="country-icon-in"></i>India</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">INR</span>
+</li>
+</ul>
+</dd>
+<dt class="padding-set">Other Regions</dt>
+<dd>
+<ul class="list-unstyled padding-set clearfix row">
+<li class="row col-xs-12 col-sm-6">
+<a data-code="global" data-name="Other Regions" data-value="global" data-lang="English" data-cur="USD" href="https://oneplus.net/global/3/design" class="col-xs-6"><i class="country-icon-global"></i>Other Regions</a>
+<span class="col-xs-3">English</span>
+<span class="col-xs-3">USD</span>
+</li>
+</ul>
+</dd>
+</dl>
+</div>
+</div>
+<header>
+<div id="store-select-box">
+<div class="container-text">
+<i class="closebtn"></i>
+<div class="store-select-box-in">
+<h3>You are visiting a store that is different from your current location</h3>
+<div class="store-select clearfix row">
+<div class="col-xs-12 col-sm-6">
+<a href="" class="localstore">
+<figure class="clearfix">
+<span class="country-icon large-icon"></span>
+<figcaption>
+<b></b>
+<p></p>
+</figcaption>
+</figure>
+<p class="text-blue"><span class="icon-address"></span>&nbsp;&nbsp;Continue visiting <span class="current-store"></span> store</p>
+</a>
+</div>
+<div class="col-xs-12 col-sm-6">
+<a href="" class="suggeststore">
+<figure class="clearfix">
+<span class="country-icon large-icon"></span>
+<figcaption>
+<b></b>
+<p></p>
+</figcaption>
+</figure>
+<p class="text-blue"><span class="icon-address"></span>&nbsp;&nbsp;Go to <span class="prev-store"></span> store</p>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-infinite overflow-visible top-header">
+<nav class="nav container-text">
+<ul class="list-inline">
+<li class="brand KM_oneplus_header_logo"><a href="https://oneplus.net/in" id="home-link"><span class="i-logo"></span></a></li>
+<li class="page KM_oneplus_header_oneplus_3"><a href="https://oneplus.net/in/3">OnePlus 3</a></li>
+<li class="page KM_oneplus_header_oneplus_2"><a href="https://oneplus.net/in/2">OnePlus 2</a></li>
+ 
+<li class="page KM_oneplus_header_store"><a class="" data-target=".family-show" href="https://oneplus.net/in/store">Store</a></li>
+<li class="page KM_oneplus_header_support"><a href="https://oneplus.net/in/support">Support</a></li>
+ 
+<li class="page KM_oneplus_header_forums"><a href="https://forums.oneplus.net/">Community</a></li>
+<li class="icon KM_oneplus_header_icon_menu"><a class="btn-collapsed js-pull-off-canvas" href="" data-target=".js-off-canvas.js-menu" id="store-nav"></a></li>
+<li class="icon"><a href="javascript:;" id="choose-store"><span class="country-icon country-icon-in"></span></a></li>
+<li class="icon KM_oneplus_header_icon_cart"><a class="js-cart" href="https://oneplus.net/in/jcart"><i data-quantity="0" class="icon-cart show-number"></i></a></li>
+<li class="icon top-header-account">
+<a class="logined" href="https://account.oneplus.net/login" id="my-account"><i class="icon-account"></i></a>
+<div style="display: none;" class="littleBubble">
+<a class="first" href="https://account.oneplus.net/dashboard">My account</a>
+<a href="https://oneplus.net/in/sales/order/history">My orders</a>
+<a href="https://oneplus.net/in/customer/address">My addresses</a>
+<a href="https://account.oneplus.net/onepluslogout" id="logOutBtn">Log out</a>
+</div>
+</li></ul>
+</nav>
+</div>
+<div class="container-infinite bg-white">
+<nav class="family-show" style="display: none;" data-trigger=".family-show-trigger">
+<ul class="family-houses">
+<li class="house phone KM_oneplus_header_sub_oneplus_3">
+<h4 class="text-black text-strong">OnePlus 3</h4>
+<figure>
+<a href="https://oneplus.net/in/oneplus-3">
+<img src="des18_files/store-nav-oneplus-3.png" srcset="https://content.oneplus.net/skin/frontend/oneplus2015/default/images/store/store-nav-oneplus-3.png 1x, https://content.oneplus.net/skin/frontend/oneplus2015/default/images/store/store-nav-oneplus-3@2x.png 2x" alt="OnePlus 3" class="item-icon">
+</a>
+</figure>
+</li>
+<li class="house oneplus-2 KM_oneplus_header_sub_oneplus_2">
+<h4 class="text-black text-strong">OnePlus 2</h4>
+<figure>
+<a href="https://oneplus.net/in/oneplus-2">
+<img src="des18_files/store-nav-oneplus-2.jpg" srcset="https://content.oneplus.net/skin/frontend/oneplus2015/default/images/store/store-nav-oneplus-2.jpg 1x, https://content.oneplus.net/skin/frontend/oneplus2015/default/images/store/store-nav-oneplus-2@2x.jpg 2x" alt="OnePlus 2" class="item-icon">
+</a>
+</figure>
+</li>
+<li class="house oneplus-x KM_oneplus_header_sub_oneplus_x">
+<h4 class="text-black text-strong">OnePlus X</h4>
+<figure>
+<a href="https://oneplus.net/in/oneplus-x">
+<img src="des18_files/store-nav-oneplus-x.jpg" srcset="https://content.oneplus.net/skin/frontend/oneplus2015/default/images/store/store-nav-oneplus-x.jpg 1x, https://content.oneplus.net/skin/frontend/oneplus2015/default/images/store/store-nav-oneplus-x@2x.jpg 2x" alt="OnePlus X" class="item-icon">
+</a>
+</figure>
+</li>
+<li class="house accessories">
+<h4 class="text-black text-strong">Accessories</h4>
+<div class="row">
+<div class="col-sm-6">
+<ul class="family-items list-unstyled">
+<li class="KM_oneplus_header_accessories_cases-protection">
+<a class="text-black text-normal item-link" href="https://oneplus.net/in/store/cases-protection">
+<span class="item-icon icon-cases-protection"></span>Cases &amp; Protection</a>
+</li>
+<li class="KM_oneplus_header_accessories_power-cables">
+<a class="text-black text-normal item-link" href="https://oneplus.net/in/store/power-cables">
+<span class="item-icon icon-power-cables"></span>Power &amp; Cables</a>
+</li>
+<li class="KM_oneplus_header_accessories_power-banks">
+<a class="text-black text-normal item-link" href="https://oneplus.net/in/store/power-bank">
+<span class="item-icon icon-power-banks"></span>Power Banks</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-6">
+<ul class="family-items list-unstyled">
+<li class="KM_oneplus_header_accessories_bundles">
+<a class="text-black text-normal item-link" href="https://oneplus.net/in/store/bundles">
+<span class="item-icon icon-bundles"></span>Bundles</a>
+</li>
+<li class="KM_oneplus_header_accessories_audio">
+<a class="text-black text-normal item-link" href="https://oneplus.net/in/store/audio">
+<span class="item-icon icon-audio"></span>Audio</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div class="std"><link rel="stylesheet" href="des18_files/swiper.css">
+<link rel="stylesheet" href="des18_files/oneplus3.css">
+ 
+<div class="main-section oneplus-3 oneplus-3-en">
+<div class="container-infinite oneplus3-nav">
+<div class="w1200">
+<nav>
+<a href="https://oneplus.net/in/3/overview" class="nav-title">OnePlus 3</a>
+<a href="" class="toggle-menu"></a>
+<ul class="menu">
+<li class="menu-item"><a href="https://oneplus.net/in/3/overview">Overview</a></li>
+<li class="menu-item"><a href="https://oneplus.net/in/3/dashcharge">Dash Charge</a></li>
+<li class="menu-item"><a class="active" href="https://oneplus.net/in/3/design">Design</a></li>
+<li class="menu-item"><a href="https://oneplus.net/in/3/camera">Camera</a></li>
+<li class="menu-item"><a href="https://oneplus.net/in/3/technology">Technology</a></li>
+<li class="menu-item"><a href="https://oneplus.net/in/3/oxygenos">OxygenOS</a></li>
+<li class="menu-item"><a href="https://oneplus.net/in/3/specs">Specs</a></li>
+</ul>
+<div class="btn-box">
+<a href="http://www.amazon.in/OnePlus-3-Graphite-64GB/dp/B01DDP7UQ0?ie=UTF8&amp;tag=opbn-21" class="btn btn-buy-3">Buy now</a>
+</div>
+</nav>
+</div>
+</div>
+ 
+<div class="container-infinite design-hero">
+<div style="-moz-transform: translate(0%, 100%) matrix(1, 0, 0, 1, 0, 0);" class="hero-title">
+<h2 class="main-title">Design</h2>
+</div>
+<div style="-moz-transform: translate(0%, 100%) matrix(1, 0, 0, 1, 0, 0);" class="design-hero-img"></div>
+</div>
+ 
+<div class="container-infinite section-padding-top section-padding-bottom design-babyskin-section">
+<div class="design-babyskin-text">
+<div class="w1200">
+<div class="text-area-side">
+<h3 class="sub-title">Never Settle</h3>
+<h2 class="main-title">Design Philosophy</h2>
+<div class="describe-text">All too often, smartphones are compared by 
+specs and features alone. In the race for more megapixels and gigabytes,
+ design gets lost in the noise. We believe that design is more than just
+ a sub-category. Yes, specs are important, and the OnePlus 3 is a 
+technical powerhouse. But none of this matters if you don’t feel 
+inspired every time you pick up your device. That’s the mindset that led
+ to the OnePlus 3.</div>
+</div>
+</div>
+</div>
+<div class="w1200">
+<div class="design-babyskin-img">
+<div style="-moz-transform: translate(0%, 15%) matrix(1, 0, 0, 1, 0, 0);" class="design-babyskin-back"></div>
+<div style="-moz-transform: translate(0%, 10%) matrix(1, 0, 0, 1, 0, 0);" class="design-babyskin-front"></div>
+<div style="-moz-transform: matrix(1, 0, 0, 1, 0, 20);" class="design-babyskin-shadow"></div>
+</div>
+</div>
+</div>
+<div class="container-infinite section-padding-top section-padding-bottom design-appearance-section">
+<div class="w1200">
+<div class="text-area-wider">
+<div class="sub-title">All-metal Build</div>
+<div class="main-title">Remarkably solid. <br>Surprisingly thin. </div>
+<div class="describe-text">The metal unibody of the OnePlus 3 begins 
+with a premium space-grade aluminum alloy, selected for its notable 
+strength, light weight, and premium feel. Rather than molding and 
+connecting several pieces, we carve each body out of a single slab of 
+this robust metal for a seamless, resilient build. Soft curves are 
+balanced against sharp lines for a striking impression and comfortable 
+grip. And at just 7.3 mm, the OnePlus 3 ranks among the thinnest 
+flagships in the world. </div>
+</div>
+<div class="design-appearance-img">
+<div style="-moz-transform: translate(0%, -10%) matrix(1, 0, 0, 1, 0, 0);" class="design-appearance-back"></div>
+<div style="-moz-transform: translate(0%, -20%) matrix(1, 0, 0, 1, 0, 0);" class="design-appearance-front"></div>
+</div>
+</div>
+</div>
+ 
+<div class="container-infinite phone-show-section">
+<div class="columns-2">
+<div class="phone-show-pro-big"></div>
+<div class="scene-graphs-big"></div>
+</div>
+<div class="columns-2">
+<div class="img-wrap">
+<div class="phone-show-pro-top"></div>
+<div class="scene-graphs-top"></div>
+</div>
+<div class="img-wrap">
+<div class="phone-show-pro-bottom"></div><div class="scene-graphs-bottom"></div>
+</div>
+</div>
+<div class="update-btn"><i class="i-upload"></i></div>
+</div>
+ 
+<div class="container-infinite section-padding-top tree-way-switch-scetion">
+<div class="w1200">
+<div class="text-area-side">
+<div class="sub-title">Alert Slider</div>
+<div class="main-title">More options for <br>more control</div>
+<div class="describe-text">Our exclusive Alert Slider gives you complete
+ control over your notifications. Toggle between three customizable 
+settings, without ever taking your phone out of your pocket: all 
+notifications, priority notifications, or silent. Peace and quiet is a 
+simple slide away.</div>
+<ul class="tree-way-switch-menu oversea"> 
+<li class="active" data-btn="no-notification">
+<span>
+<i class="i-notification-off"></i>
+<i class="i-notification-on"></i>
+<i class="i-no-interruption-oversea"></i>
+</span>
+<label>Silent</label>
+</li>
+<li data-btn="priority-interruption">
+<span>
+<i class="i-priority-interruption-off"></i>
+<i class="i-priority-interruption-on"></i>
+<i class="i-priority-interruption-oversea"></i>
+</span>
+<label>Priority</label>
+</li>
+<li data-btn="no-interruption">
+<span>
+<i class="i-no-interruption-off"></i>
+<i class="i-no-interruption-on"></i>
+<i class="i-notification-oversea"></i>
+</span>
+<label>All</label>
+</li>
+</ul>
+</div>
+<div class="tree-way-switch-img">
+ 
+<div class="no-interruption-off-img active"></div>
+<div class="priority-interruption-off-img"></div>
+<div class="notification-off-img"></div>
+<div class="tree-way-switch-btn no-notification"></div>
+</div>
+</div>
+</div>
+ 
+<div class="container-infinite section-padding-top phone-color-show-section">
+<div class="w1200">
+<div class="text-area-side">
+<div class="sub-title">Colors</div>
+<div class="main-title">Two Natural Choices</div>
+<div class="describe-text">The OnePlus 3 is available in two striking 
+color variants. Our exclusive Graphite color is calibrated to capture 
+the natural crystalline nature of titanium mineral ore. For our Soft 
+Gold color, we looked to the classical golden tones found in traditional
+ Japanese art for a sophisticated look. Regardless of which color you 
+choose, a custom sandblasting finish creates a fine grained matte that 
+brings out a natural metallic luster.</div>
+</div>
+</div>
+<div class="phone-color-show-bg"></div>
+</div>
+ 
+<div class="container-infinite footer-page-guide">
+<div class="w1200">
+<div class="footer-left">
+<div class="footer-page-text">
+<h3 class="footer-page-name">Dash Charge</h3>
+<p class="page-link"><a href="https://oneplus.net/in/3/dashcharge"><i class="i-prev-arrow"></i> Previous</a></p>
+</div>
+<div class="footer-page-img footer-page-dash-charge"></div>
+</div>
+<div class="footer-right">
+<div class="footer-page-text">
+<h3 class="footer-page-name">Camera</h3>
+<p class="page-link"><a href="https://oneplus.net/in/3/camera">Next <i class="i-next-arrow"></i></a></p>
+</div>
+<div class="footer-page-img footer-page-camera"></div>
+</div>
+</div>
+</div>
+</div>
+ 
+<script src="des18_files/TweenMax.js"></script>
+<script src="des18_files/ScrollMagic.js"></script>
+<script src="des18_files/animation.js"></script>
+<script src="des18_files/oneplus3.js"></script>
+<script src="des18_files/oneplus3-design.js"></script></div>
+<footer class="footer-default">
+<div class="side-padding container-infinite">
+<div class="margin-small"></div>
+<div class="row text-right hidden-xs">
+<ul class="footer-shop list-inline">
+<li class="link"><a href="https://oneplus.net/in/about-us">About OnePlus</a></li>
+<li class="link"><a href="https://oneplus.net/careers">Careers</a></li>
+<li class="link"><a href="https://oneplus.net/press">Press</a></li>
+</ul>
+<ul class="list-inline social-media-list hidden-footer-medium fright">
+<li class="social-media"><a href="https://facebook.com/oneplusin" target="_blank"><span class="icon-facebook"></span></a></li>
+<li class="social-media"><a href="https://www.instagram.com/oneplus_india/" target="_blank"><span class="icon-instagram"></span></a></li>
+<li class="social-media"><a href="https://twitter.com/oneplus_in" target="_blank"><span class="icon-twitter"></span></a></li>
+<li class="social-media"><a href="https://plus.google.com/102032589992734862411" target="_blank"><span class="icon-google-plus"></span></a></li>
+</ul>
+ 
+<span title="" data-original-title="" class="support-call text-strong fright" data-popover-content="#popoverContent2" id="popover2" data-toggle="popover" data-trigger="hover" data-style="support" onmouseleave="document.getElementById('popover2').style.display='inline-block';">
+<span class="icon-phone"></span>&nbsp;Support: <a class="text-primary" href="tel:1800%20102%208411%20%28Toll%20Free%29">1800 102 8411 (Toll Free)</a>
+</span>
+<div id="popoverContent2" class="text-center hide">
+<p style="color: #88d166">
+<i class="icon-circle-check"></i><b style="display: block;" id="support_status">Available now</b>
+</p>
+<p>09:00-21:00</p>
+<p>Monday to Sunday</p>
+</div>
+</div>
+<div class="row text-center visible-xs">
+</div>
+<div class="row text-right">
+<p class="footer-sosumi"><span class="copy-right">© 2013 - 2016 OnePlus</span><span class="separator hidden-xs">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a class="privacy-policy hidden-xs" href="https://oneplus.net/in/privacy-and-legal">Privacy and Legal</a></p>
+<ul class="list-inline social-media-list hidden-footer-large hidden-xs">
+<li class="social-media"><a href="https://facebook.com/oneplusin" target="_blank"><span class="icon-facebook"></span></a></li>
+<li class="social-media"><a href="https://www.instagram.com/oneplus_india/" target="_blank"><span class="icon-instagram"></span></a></li>
+<li class="social-media"><a href="https://twitter.com/oneplus_in" target="_blank"><span class="icon-twitter"></span></a></li>
+<li class="social-media"><a href="https://plus.google.com/102032589992734862411" target="_blank"><span class="icon-google-plus"></span></a></li>
+</ul>
+</div>
+<div class="margin-small"></div>
+</div>
+</footer>
+<style type="text/css">.fright{float:right;}.fleft{float:left;}</style>
+<script>
+    jQuery(document).ready(function(){
+   
+    var now = new Date();
+    var curdate = new Date(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(),  now.getUTCHours(), now.getUTCMinutes(), now.getUTCSeconds());
+
+    var start = new Date(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 03 , 30 , 00);
+
+    var end = new Date(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(),15 , 00 , 00);
+    if(curdate > start && curdate < end){
+        document.getElementById("support_status").style.display="block";
+        document.getElementById("support_status_mobile").style.display="block";
+    }
+    else{
+      
+        document.getElementById("support_status").style.display="none";
+        document.getElementById("support_status_mobile").style.display="none";
+    }
+
+  });
+   
+  
+
+  jQuery('#popover2').popover({
+    placement: 'top', 
+    html: true,
+    content: function () {
+              var clone = jQuery(jQuery(this).data('popover-content')).clone(true).removeClass('hide');
+        return clone;
+        //return '<p>this is a test</p>';
+    }
+  });
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46480385-12', 'auto');
+  ga('send', 'pageview');
+</script>
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PBWHXW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+{'gtm.start': new Date().getTime(),event:'gtm.js'}
+);var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PBWHXW');</script>
+ 
+ 
+<script type="text/javascript">
+    (function() {
+        var a = document.createElement("script");
+        a.type = "text/javascript";
+        a.async = true;
+        a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdc.js";
+        var b = document.getElementsByTagName("script")[0x0];
+        b.parentNode.insertBefore(a, b)
+    })();
+</script>
+<script type="text/javascript" src="des18_files/et.js"></script>
+ 
+<script>
+var ONEPLUS_NET = {
+  REQUEST: {
+    LOG_IN: '/xman/user/login',
+    LOG_IN_CHECKOUT: '/xman/user/login',
+    SIGN_OUT: '/xman/user/logout',
+    LOG_OUT: '/xman/user/logout',
+    FAQ_SEARCH: 'https://oneplus.net/in/support/index/ajaxsearch'
+  }};
+</script>
+
+
+<script id="" type="text/javascript">if($("body").is(".catalog-product-view")){var $product=$(".product-info.js-product-info"),_isPhone=$product.is(".product-phone"),_products=[];if(_isPhone){var $phoneSelection=$product.find(".user-selection.js-user-selection .step.required").first();$phoneSelection.find(".option.card").each(function(){var a=$(this).find("input:radio").first(),b=a.attr("data-name"),c=a.attr("data-price"),a=a.attr("id"),d=$product.attr("data-sku");_products.push({name:b,id:a,price:c,variant:d})})}else{var productName=
+$product.find(".title.name").text(),productPrice=$product.find(".supply .price").attr("data-value")||$product.find(".selection-subtotal .price").attr("data-value"),productId=$product.attr("data-id"),productSku=$product.attr("data-sku");_products.push({name:productName,id:productId,price:productPrice,variant:productSku})}dataLayer.push({event:"productDetail",ecommerce:{currencyCode:"EUR",detail:{products:_products}}})};</script><script id="" type="text/javascript">function init(){if(localStorage){for(var c=google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916226'),a=JSON.parse(localStorage.getItem(c))||[],d=!1,b=0;b<a.length;b++)a[b].uploaded||(a[b].data&&dataLayer.push(a[b].data),d=a[b].uploaded=!0);d&&localStorage.setItem(c,JSON.stringify(a))}}init();</script><div style="display: none; visibility: hidden;">
+<script type="text/javascript">var axel=Math.random()+"",a=1E13*axel;document.write('\x3ciframe src\x3d"https://5566316.fls.doubleclick.net/activityi;src\x3d5566316;type\x3dop3pr0;cat\x3dop3de0;dc_lat\x3d;dc_rdid\x3d;tag_for_child_directed_treatment\x3d;ord\x3d'+a+'?" width\x3d"1" height\x3d"1" frameborder\x3d"0" style\x3d"display:none"\x3e\x3c/iframe\x3e');</script><iframe src="des18_files/activityi.htm" style="display: none;" frameborder="0" height="1" width="1"></iframe>
+<noscript></noscript>
+</div><style type="text/css"> 
+  .docked-nav.sticky {
+    box-shadow: 0px -12px 12px 12px #aaa;
+  }
+  .release-content .swiper-slide-last {
+    position: relative;
+    height: 300px;
+  }
+</style><script id="" type="text/javascript">var h=$("a[href^\x3d'https://oneplusstore.in/in']");h.each(function(){$(this).attr("href",$(this).attr("href").replace("oneplusstore.in/in","oneplus.net/in"))});</script><div style="display: none; visibility: hidden;"><style type="text/css"> 
+  .promo-hint-bar {
+    background-color: #1283af;
+    position: absolute;
+    padding: 0;
+    top: -50px;
+  }
+  
+  .promo-hint-bar .hint-block {
+    max-width: 1200px;
+    margin: auto;
+    position: relative;
+  }
+  
+  .promo-hint-bar .hint-block .hint {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    display: block;
+    padding-left: 10px;
+    padding-right: 44px;
+    position: relative;
+  }
+  
+  .promo-hint-bar .btn-remove-hint {
+    right: 20px;
+  }
+  
+  #store-select-box .container-text .closebtn, #store-select-box .product .docked-nav.sticky .sub-nav .closebtn, .product .docked-nav.sticky #store-select-box .sub-nav .closebtn, #store-select-box .checkitout .container .closebtn, .checkitout #store-select-box .container .closebtn {
+    right: 20px;
+  }
+  
+  @media screen and (max-width: 1080px) {
+    .promo-hint-bar .hint-block .hint {
+      padding-right: 34px;
+      
+    }
+    
+    .promo-hint-bar .btn-remove-hint {
+      right: 10px;
+    }
+    
+    #store-select-box .container-text .closebtn, #store-select-box .product .docked-nav.sticky .sub-nav .closebtn, .product .docked-nav.sticky #store-select-box .sub-nav .closebtn, #store-select-box .checkitout .container .closebtn, .checkitout #store-select-box .container .closebtn {
+      right: 10px;
+    }
+  }
+</style>
+
+<script type="text/javascript">function getCookie(b){return 0<document.cookie.length&&(c_start=document.cookie.indexOf(b+"\x3d"),-1!=c_start)?(c_start=c_start+b.length+1,c_end=document.cookie.indexOf(";",c_start),-1==c_end&&(c_end=document.cookie.length),unescape(document.cookie.substring(c_start,c_end))):""}function setCookie(b,a,c){var d=new Date;d.setDate(d.getDate()+c);document.cookie=b+"\x3d"+escape(a)+(null==c?"":";expires\x3d"+d.toGMTString())+";domain\x3doneplus.net;path\x3d/"}
+function init(){var b="hasHintBar",a=getCookie(b),c="The OnePlus 3 is back on sale in your region. Click here to get yours now!",d="The OnePlus 3 is back on sale in your region.",e="https://oneplus.net/in/3",a=""===a||"true"===a?!0:!1,c='\x3cdiv class\x3d"promo-hint-bar text-center"\x3e\x3cp class\x3d"hint-block"\x3e\x3ca href\x3d"'+e+'" class\x3d"hidden-xs hint"\x3e'+c+'\x3c/a\x3e\x3ca href\x3d"'+e+'" class\x3d"visible-xs hint"\x3e'+d+'\x3c/a\x3e\x3ca class\x3d"btn btn-remove-hint"\x3e\x3cspan class\x3d"icon-cross"\x3e\x3c/span\x3e\x3c/a\x3e\x3c/p\x3e\x3c/div\x3e';
+if(-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916228').indexOf("oneplus.net/at/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916229').indexOf("oneplus.net/be_fr/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916230').indexOf("oneplus.net/be_nl/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916231').indexOf("oneplus.net/bg/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916232').indexOf("oneplus.net/cy_gr/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916233').indexOf("oneplus.net/cy_tr/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916234').indexOf("oneplus.net/cz/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916235').indexOf("oneplus.net/ee/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916236').indexOf("oneplus.net/es/store")||
+-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916237').indexOf("oneplus.net/fr/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916238').indexOf("oneplus.net/gr/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916239').indexOf("oneplus.net/hk/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916240').indexOf("oneplus.net/hr/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916241').indexOf("oneplus.net/hu/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916242').indexOf("oneplus.net/ie/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916243').indexOf("oneplus.net/it/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916244').indexOf("oneplus.net/lt/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916245').indexOf("oneplus.net/lu_de/store")||
+-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916246').indexOf("oneplus.net/lu_fr/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916247').indexOf("oneplus.net/lv/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916248').indexOf("oneplus.net/mt/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916249').indexOf("oneplus.net/nl/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916250').indexOf("oneplus.net/pl/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916251').indexOf("oneplus.net/pt/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916252').indexOf("oneplus.net/ro/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916253').indexOf("oneplus.net/sg/store")||-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916254').indexOf("oneplus.net/si/store")||
+-1<google_tag_manager["GTM-PBWHXW"].macro('gtm1475313916255').indexOf("oneplus.net/sk/store"))a?($("body").prepend(c),$(document.body).addClass("has-hint-bar overflow-visible"),$(".promo-hint-bar .btn-remove-hint").on("click",function(a){a.preventDefault();a.stopPropagation();$(".promo-hint-bar").addClass("hidden");$(document.body).removeClass("has-hint-bar");modules&&modules.misc&&modules.misc.cookieTool?modules.misc.cookieTool.setItem(b,!1):setCookie(b,!1,2)})):($(".promo-hint-bar").addClass("hidden"),$("body").removeClass("has-hint-bar"))}
+init();</script></div></body></html>
